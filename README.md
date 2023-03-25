@@ -26,9 +26,9 @@ To run this bot, you need to have [Node.js](https://nodejs.org/en/) installed.
 
 4. Create a `.env` file in the project directory with the following content:
 
-DISCORD_TOKEN=your_bot_token_here
+   DISCORD_TOKEN=your_bot_token_here
 
-Replace `your_bot_token_here` with the bot token you copied in step 3e.
+   Replace `your_bot_token_here` with the bot token you copied in step 3e.
 
 5. Invite the bot to your server:
 
