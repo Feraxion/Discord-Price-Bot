@@ -42,7 +42,7 @@ To run this bot, you need to have [Node.js](https://nodejs.org/en/) installed.
 
 ## Running the bot
 
-In the project directory, run `node index.js` to start the bot. It will log in to Discord and start updating its nickname according to the fetched price data.
+In the project directory, run `node src/main.js` to start the bot. It will log in to Discord and start updating its nickname according to the fetched price data.
 
 ## License
 
