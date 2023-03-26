@@ -24,7 +24,7 @@ To run this bot, you need to have [Node.js](https://nodejs.org/en/) installed.
 
    e. Copy the bot token by clicking on "Copy" under the "Token" section.
 
-4. Create a `.env` file in the project directory with the following content:
+4. Delete the ".sample" part of ".env.sample" file in the project directory with the following content:
 
    DISCORD_TOKEN=your_bot_token_here
 
